@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-waw add ngx-switch
+npm install ngx-switch
 ```
 ## Usage
 
